@@ -11,7 +11,7 @@
 torch.nn究竟是什？：What's torch.nn really?  
 TorchScript入门：Introduction to TorchScript  
 
-二、文本  
+### 二、文本  
 聊天机器人：Chatbot Tutorial  
 字符级别的RNN生成名字：Generating Names with a Character-Level RNN  
 字符级别的RNN名字分类：Classifying Names with a Character-Level RNN  
